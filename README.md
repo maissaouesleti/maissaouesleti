@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://pro2-bar-s3-cdn-cf5.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif?h=3ef38d2bcece76203455258e0d585fe9">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maissaouesleti&label=Profile%20views&color=0e75b6&style=flat" alt="maissaouesleti" /> </p>
 
-- 🌱 I’m currently learning **Angular,ASP.NET,Machine Learning algorithms,Data analysis**
+- 🌱 I’m currently learning **Angular,ASP.NET,Java, CI/CD pipelines**
 
 - Actively looking for an internship, Got something ? <a href="mailto:maissa.ouesleti@esprit.tn">Contact me!</a>
 
