@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular,ASP.NET,Java, CI/CD pipelines**
 
-- Actively looking for an internship, Got something ? <a href="mailto:maissa.ouesleti@esprit.tn">Contact me!</a>
+- Actively looking for an opportunity, Got something ? <a href="mailto:maissa.ouesleti@esprit.tn">Contact me!</a>
 
 
 
